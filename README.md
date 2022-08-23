@@ -44,3 +44,6 @@ It is a outward interface for customization, standardize the design of multi-dev
 
 4. ColorBlindSelector
 Since we hope the DUI could be customized based on users different requirements, so developers could add more selectors to deal with complex situations. And 'ColorBlindSelector' is a sample selector which provide color blind user with button color selection. 
+
+# More detail about our project
+You could get more detail about our idea through our paper.
